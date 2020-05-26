@@ -1,0 +1,2 @@
+rootProject.name='RecycerView Demo'
+include ':app'
